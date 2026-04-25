@@ -8,7 +8,8 @@
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zargszorgs@gmail.com)                                  
 -->
 ###📊 Estatísticas do GitHub  
-https://github-readme-stats.vercel.app/api?username=ARTHURGOP3&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU
+USUARIO&show_icons=true&theme=tokyonight)  
 
 
 
