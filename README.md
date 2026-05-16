@@ -8,9 +8,11 @@
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)                                  
 -->
 ## 📊 Estatísticas do GitHub  
-[![GithubStats](https://streak-stats.demolab.com/?user=ARTHURGOP3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22)
+
 <div align="center">
-[![GithubVisitors](https://visitor-badge.laobi.icu/badge?page_id=ARTHURGOP3.ARTHURGOP3&)
+  <img src="https://streak-stats.demolab.com/?user=ARTHURGOP3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GithubStats" />
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ARTHURGOP3.ARTHURGOP3" alt="GithubVisitors" />
 </div>
 
 ### Tecnologias que estudo
