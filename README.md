@@ -9,8 +9,9 @@
 -->
 ## 📊 Estatísticas do GitHub  
 [![GithubStats](https://streak-stats.demolab.com/?user=ARTHURGOP3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22)
+<div align="center">
 [![GithubVisitors](https://visitor-badge.laobi.icu/badge?page_id=ARTHURGOP3.ARTHURGOP3&)
-
+</div>
 
 ### Tecnologias que estudo
 
