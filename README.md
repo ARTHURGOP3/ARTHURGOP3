@@ -1,9 +1,9 @@
 ## Olá, eu sou o Arthur Miguel👋
-- Estudante de Desenvolvimento de Sistemas e Informática.                                                   
--💻Focado em Python, SQL, HTML, CSS E Java Script.                                                                                                        
-- Estudando para virar um futuro progamador Full Stack.                                                                 
-- Adoro aprender coisas novas e viver coisas novas.                                                       
--📫 Como me contatar:                                                                                          
+Estudante de Desenvolvimento de Sistemas e Informática.                                                   
+💻Focado em Python, SQL, HTML, CSS E Java Script.                                                                                                        
+ Estudando para virar um futuro progamador Full Stack.                                                                 
+ Adoro aprender coisas novas e viver coisas novas.                                                       
+📫 Como me contatar:                                                                                          
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmiguel3)
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)                                  
 -->
